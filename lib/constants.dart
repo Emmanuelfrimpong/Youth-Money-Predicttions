@@ -1,0 +1,1 @@
+const APP_NAME='Youth Money Predictions';
